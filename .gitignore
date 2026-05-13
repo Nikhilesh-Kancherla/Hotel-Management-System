@@ -1,0 +1,13 @@
+# Compiled classes and outputs
+build/
+dist/
+/nbbuild/
+/nbdist/
+
+# NetBeans specific private settings
+nbproject/private/
+nbproject/project.xml.bak
+
+# Others
+*.class
+*.jar
